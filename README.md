@@ -10,7 +10,7 @@ This project is for Educational Use only. We do not condone this software being 
 
 ## Running AmongUsMenu v2 (EXE Version)
 
-AmongUsMenu v2 is now a standalone executable. Simply run the `[AmongUsMenu v2.exe](https://github.com/BitCrackersV2/AmongUsMenuV2/releases/download/v2/AmongUsMenu.v2.exe)` file to launch the cheat menu.
+AmongUsMenu v2 is now a standalone executable. Simply run the `AmongUsMenu v2.exe` file to launch the cheat menu.
 
 ### Features:
 
@@ -22,9 +22,9 @@ AmongUsMenu v2 is now a standalone executable. Simply run the `[AmongUsMenu v2.e
 
 ### How to Use:
 
-1. **Download and extract** the `[AmongUsMenu v2.exe](https://github.com/BitCrackersV2/AmongUsMenuV2/releases/download/v2/AmongUsMenu.v2.exe)`
+1. **Download and extract** the `AmongUsMenu v2.exe`
 2. **Run Among Us** (ensure the game is open before launching the cheat)
-3. \*\*Run \*\***`[AmongUsMenu v2.exe](https://github.com/BitCrackersV2/AmongUsMenuV2/releases/download/v2/AmongUsMenu.v2.exe)`** as administrator
+3. \*\*Run \*\***`AmongUsMenu v2.exe`** as administrator
 4. The menu should now appear in the game
 
 ### Running on Proton (Linux)
